@@ -23,7 +23,7 @@
    
 <br>
 
-<h3>Social</h3>
+<h3>Contact me:</h3>
 <a href=https://www.linkedin.com/in/halilyasarsoy target="_blank">
 <img alt="Linkedin" width="36px" src=https://img2.pngindir.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg />
 <a href=https://www.instagram.com/_halilyasarsoy target="_blank">
