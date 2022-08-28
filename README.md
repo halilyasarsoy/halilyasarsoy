@@ -8,9 +8,10 @@
 
 - 🌱 I’m currently learning Kotlin.
 
+
 <br>
 <div align="center">
-<p><img alt="gif" src="https://github.com/halilyasarsoy/halilyasarsoy/blob/main/programmer.gif" width="650" height="420">
+<p><img alt="gif" src="https://user-images.githubusercontent.com/71354610/187088722-53a3a2e6-5227-4cfb-8ab9-c0343deae49c.gif" width="650" height="420">
 </div>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilyasarsoy)](https://github.com/anuraghazra/github-readme-stats)-->
